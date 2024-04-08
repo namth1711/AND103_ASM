@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.and103_asm"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:7:5-81
+13-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:8:22-77
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.and103_asm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.and103_asm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:10:5-54:19
+23        android:allowBackup="true"
+23-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:11:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\6513c5624bd5e66b3434a9661f43f592\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:12:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:13:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:14:9-43
+30        android:label="@string/app_name"
+30-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:15:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:16:9-54
+32        android:supportsRtl="true"
+32-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:17:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.and103_asm"
+34-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:18:9-48
+35        android:usesCleartextTraffic="true" >
+35-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:19:9-44
+36        <activity
+36-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.and103_asm.view.OrdersActivity"
+37-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:22:13-48
+38            android:exported="false" />
+38-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:23:13-37
+39        <activity
+39-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:24:9-26:40
+40            android:name="com.example.and103_asm.view.LocationActivity"
+40-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:25:13-50
+41            android:exported="false" />
+41-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:26:13-37
+42        <activity
+42-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:27:9-29:40
+43            android:name="com.example.and103_asm.view.FruitDetailActivity"
+43-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:28:13-53
+44            android:exported="false" />
+44-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:29:13-37
+45        <activity
+45-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:30:9-32:40
+46            android:name="com.example.and103_asm.view.UpdateFruitActivity"
+46-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:31:13-53
+47            android:exported="false" />
+47-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:32:13-37
+48        <activity
+48-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:33:9-35:40
+49            android:name="com.example.and103_asm.view.AddFruitActivity"
+49-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:34:13-50
+50            android:exported="false" />
+50-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:35:13-37
+51        <activity
+51-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:36:9-38:40
+52            android:name="com.example.and103_asm.view.HomeActivity"
+52-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:37:13-46
+53            android:exported="false" />
+53-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:38:13-37
+54        <activity
+54-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:39:9-41:40
+55            android:name="com.example.and103_asm.view.RegisterActivity"
+55-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:40:13-50
+56            android:exported="false" />
+56-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:41:13-37
+57        <activity
+57-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:42:9-44:40
+58            android:name="com.example.and103_asm.MainActivity"
+58-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:43:13-41
+59            android:exported="false" />
+59-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:44:13-37
+60        <activity
+60-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:45:9-53:20
+61            android:name="com.example.and103_asm.view.LoginActivity"
+61-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:46:13-47
+62            android:exported="true" >
+62-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:47:13-36
+63            <intent-filter>
+63-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:48:13-52:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:49:17-69
+64-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:49:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:51:17-77
+66-->D:\Nam\FPT\Deadline\react_native\AND103\code\assigment\AND\AND103_asmGD2\app\src\main\AndroidManifest.xml:51:27-74
+67            </intent-filter>
+68        </activity>
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.example.and103_asm.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.2.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\b4bc221d103ad9d7262695070eed164b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.6.1] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.6.1] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.6.1] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\3ec9a1abfae9b49bd60edc5fcf10f669\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <receiver
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+86            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+87            android:directBootAware="false"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+88            android:enabled="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+89            android:exported="true"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+90            android:permission="android.permission.DUMP" >
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+92                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+93            </intent-filter>
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+95                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+98                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+101                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\Nam\FPT\Deadline\Xuong lv1\layout\Project_Lv1_Mobile\.gradle\caches\transforms-3\74bf77d95cfdee6df3ae29bcda051207\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>

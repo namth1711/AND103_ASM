@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_price">
+        <item>Ascending</item>
+        <item>Decrease</item>
+
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AND103_ASM</string>
+    <style name="Base.Theme.and103_asm" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.and103_asm" parent="Base.Theme.and103_asm"/>
+</resources>

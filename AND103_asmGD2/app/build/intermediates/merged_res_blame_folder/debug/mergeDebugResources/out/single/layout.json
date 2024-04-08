@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_register.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_register.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_province_spinner.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_province_spinner.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_update_fruit.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_update_fruit.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/dialog_update_fruit.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/dialog_update_fruit.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_fruit_detail.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_fruit_detail.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_home.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_update_fruit.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_update_fruit.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_fruit_detail.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_fruit_detail.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_orders.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_orders.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_distributor.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_distributor.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_location.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_login.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_orders.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_orders.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_add_fruit.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_add_fruit.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_home.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_fruit.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_fruit.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\dialog_update_fruit.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\dialog_update_fruit.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_district_spinner.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_district_spinner.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_image.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/dialog_add.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/dialog_add.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_orders.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\dialog_add.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\dialog_add.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\item_ward_spinner.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\item_ward_spinner.xml"
+    },
+    {
+        "merged": "com.example.and103_asm.app-mergeDebugResources-33:/layout/activity_location.xml",
+        "source": "com.example.and103_asm.app-main-36:/layout/activity_location.xml"
+    },
+    {
+        "merged": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-mergeDebugResources-33:\\layout\\activity_add_fruit.xml",
+        "source": "D:\\Nam\\FPT\\Deadline\\Xuong lv1\\layout\\Project_Lv1_Mobile\\.gradle\\daemon\\8.4\\com.example.and103_asm.app-main-36:\\layout\\activity_add_fruit.xml"
+    }
+]
